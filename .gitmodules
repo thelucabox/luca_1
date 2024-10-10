@@ -1,3 +1,9 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "luca-site/themes/ananke"]
+	path = luca-site/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "luca-site/luca-site/themes/ananke"]
+	path = luca-site/luca-site/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
