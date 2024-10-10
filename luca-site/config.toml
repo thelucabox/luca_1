@@ -1,0 +1,5 @@
+baseURL = "https://yourdomain.com"
+languageCode = "en-us"
+title = "Luca Lab"
+theme = "ananke"
+
